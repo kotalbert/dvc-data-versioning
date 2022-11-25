@@ -1,0 +1,4 @@
+outs:
+- md5: 1a26b853728608652b405b26c2e3d8f0
+  size: 16777216
+  path: data.xml
